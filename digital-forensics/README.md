@@ -2,10 +2,13 @@
 
 This directory contains practical digital forensics exercises and investigation write-ups.
 
-## Areas
+Each completed lab or exercise will have its own folder directly under this directory, named after the lab or exercise. This keeps the structure simple and makes it easy to add work as it is completed.
 
-- **Windows forensics:** Windows artefacts, Registry hives, user activity, and system activity.
-- **Disk forensics:** disk images, acquisition, file systems, and integrity verification.
-- **Memory forensics:** memory acquisition and analysis.
+Examples of work that may appear here include:
 
-Completed exercises will be documented in their relevant folders. Existing projects maintained in separate repositories are linked from the main portfolio README.
+- Windows artefact and Registry analysis
+- Disk imaging and file-system examination
+- Network traffic analysis
+- Memory acquisition and analysis
+
+Existing projects maintained in separate repositories are linked from the main portfolio README.
