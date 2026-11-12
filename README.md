@@ -21,7 +21,7 @@ These projects are maintained in their own repositories and are linked here as p
 ## Repository structure
 
 - `ethical-hacking/` — individual lab folders are organised directly in this directory by lab or machine name.
-- `digital-forensics/` — practical exercises and write-ups grouped by forensic area.
+- `digital-forensics/` — individual lab folders are organised directly in this directory by lab or exercise name.
 
 More write-ups will be added as I complete and document further labs.
 
