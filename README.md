@@ -2,7 +2,7 @@
 
 This repository is my central portfolio of practical work as I develop my skills in cybersecurity, with a focus on ethical hacking and digital forensics.
 
-I use these labs to document what I have practised, the tools and methods I have explored, what I learned, and challenges I encountered along the way. The goal is to build practical skills through consistent, hands-on learning and clear documentation.
+I use these labs to document what I have practised, the tools and methods I have explored, what I learned, and challenges I encountered along the way. It's just me learning practical skills through hands-on learning and documentation.
 
 ## Areas of focus
 
@@ -20,8 +20,8 @@ These projects are maintained in their own repositories and are linked here as p
 
 ## Repository structure
 
-- `ethical-hacking/` — individual lab folders are organised directly in this directory by lab or machine name.
-- `digital-forensics/` — individual lab folders are organised directly in this directory by lab or exercise name.
+- `ethical-hacking/` 
+- `digital-forensics/` 
 
 More write-ups will be added as I complete and document further labs.
 
